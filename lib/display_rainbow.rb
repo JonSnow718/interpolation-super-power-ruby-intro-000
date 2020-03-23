@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-colors = 
+colors = [""]
 def display_rainbow(colors)
   puts "colors: #{colors[]"
 end
